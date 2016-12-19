@@ -8,16 +8,16 @@ Workshop Schedule
 | Time              | Topic    | Presenter |
 |-------------------|----------|-----------|
 |8:30 - 9:00    | Introduction, User configuration and setup support | Everyone |
-|9:00 - 9:30   | Introduction to Python | Pey Lian Lim |
-|9:30 - 10:00  | Astropy Units, Quantities and Constants | Erik Tollerund |
-|10:00 - 10:30 | Coordinates | Erik Tollerund |
+|9:00 - 10:00   | Introduction to Python | Pey Lian Lim |
+|10:00 - 10:30  | Astropy Units, Quantities and Constants | Erik Tollerund |
 |**10:30 - 10:45**  |  **BREAK** | Refreshments  |
-|10:45 - 11:30  | Astropy Tables, Pandas, IO and FITS | Tim Pickering  |
-|11:30 - 12:15  | Photometric Tools | Megan Sosey |
+|10:45 - 11:15 | Coordinates | Erik Tollerund |
+|11:15 - 12:15 | IO and FITS, Astropy Tables, Pandas | Nadia Dencheva  + Erik Tollerund |
 |**12:15 - 1:15**| **LUNCH** | Your favorite foods |
-|1:30 - 2:30    | Vizualization Tools | Pey Lian Lim and Megan Sosey |
-|2:30 - 3:15    | Modeling and Fitting  | Nadia Dencheva | 
-|**3:15 - 3:30**    | **BREAK** | Refreshments |
-|3:30 - 4:00    | Generalized World Coordinate System (GWCS) | Nadia Dencheva |
-|4:00 - 4:30    | Scripting Pandiea for observation planning |  Tim Pickering |
-|4:30 - 5:00    | Wrap up! | Questions and Comments from participants |
+|1:30 - 2:00 | Photometric Tools | Megan Sosey |
+|2:00 - 3:00 | imexam, Ginga, specviz | Pey Lian Lim, Megan Sosey, (Nick Earl) |
+|**3:15 - 3:30** | **BREAK** | Refreshments |
+|3:30 - 3:45 |  Glue | Erik Tollerund (Nick Earl) |
+|3:45 - 4:15 | Modeling and Fitting | Nadia Dencheva |
+|4:15 - 4:45 | Generalized World Coordinate System (GWCS) | Nadia Dencheva |
+|4:45 - 5:00 | Wrap up! | Questions and Comments from participants |
