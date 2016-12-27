@@ -16,9 +16,9 @@ Workshop Schedule
 |**12:15 - 1:15**| **LUNCH** | Your favorite foods |
 |1:30 - 2:30 | Astropy WCS & Modeling| Nadia Dencheva |
 |2:30 - 3:00 | Generalized World Coordinate System (GWCS) | Nadia Dencheva |
-|**3:15 - 3:30** | **BREAK** | Refreshments |
-|3:30 - 4:00 | Photutils | Megan Sosey|
-|4:00 - 5:00 | imexam, Ginga, SpecViz, Glue | Megan Sosey & Pey Lian Lim |
+|**3:00 - 3:15** | **BREAK** | Refreshments |
+|3:15 - 3:45 | Photutils | Megan Sosey|
+|3:45 - 5:00 | imexam, Ginga, SpecViz, Glue | Megan Sosey & Pey Lian Lim |
 
 
  Wrap up!  Questions and Comments from participants
