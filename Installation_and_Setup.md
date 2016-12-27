@@ -35,6 +35,3 @@ Note for windows users: you can use the environment_win.yml file instead, this w
 You can run the check_env.py script to perform a basic check of your Python environment and some of the required dependencies:
 
     % python check_env.py
-If you have issues getting set up, you can also run the notebooks on mybinder.org:
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/spacetelescope/aas229_workshop)
