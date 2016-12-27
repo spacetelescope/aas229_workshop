@@ -19,7 +19,7 @@ dependencies:
   - notebook
   - ipython
   - asdf
-  - gwcs>=0.7
+  - gwcs>=0.6rc1
   - beautifulsoup4
   - requests
   - keyring

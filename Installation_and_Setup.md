@@ -4,12 +4,14 @@ First, download this repository by either doing:
 
     git clone http://github.com/spacetelescope/aas229_workshop.git
 
-or by downloading and expanding this repository. Then, cd into the aas229_workshop directory.
+or by downloading and then expanding the repository file.
+
+Then, cd into the aas229_workshop directory.
 
 If you don't already have Anaconda installed, install the the Anaconda distribution for Python 3.5, which we have packaged along with some additional software. Downloads for Mac and Linux can be found at:
 
-http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-Linux-x86_64.sh
-http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-MacOSX-x86_64.sh
+    http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-Linux-x86_64.sh
+    http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-MacOSX-x86_64.sh
 
 Note: please do this ahead of the workshop if possible.
 
@@ -24,12 +26,11 @@ Note: you need to be inside the aas229_workshop directory for this to work.
 
 The command above will create an environment called "aas229-workshop", but you can change that to any other desirable name.
 
-Note for windows users: you can use the environment_win.yml file instead:
+Note for windows users: you can use the environment_win.yml file instead, this will not include the ginga or imexam packages:
 
     % conda env create -n aas229-workshop --file environment_win.yml
     % source activate aas229-workshop
 
-However, note that you will not be able to use the imexam or ginga packages.
 
 You can run the check_env.py script to perform a basic check of your Python environment and some of the required dependencies:
 

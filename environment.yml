@@ -1,4 +1,4 @@
-iname: aas229-workshop
+name: aas229-workshop
 
 channels:
   - http://ssb.stsci.edu/astroconda
@@ -15,15 +15,16 @@ dependencies:
   - pandas>=0.18.1
   - glue-vispy-viewers>=0.6
   - glueviz>=0.9.1
-  - ginga>=2.6.1
+  - ginga>=2.5.20161005204600
   - jupyter
   - notebook
   - ipython
   - asdf
-  - gwcs>=0.7
+  - gwcs>=0.6rc1
   - beautifulsoup4
   - requests
   - keyring
   - html5lib
+  - ds9>=7.1
   - pip:
     - astroquery
