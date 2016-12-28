@@ -42,7 +42,8 @@ pkgs = {'IPython': '5.1',
         'glue': '0.8.2',
         'imexam': '0.6.2',
         'astroquery': '0.3',
-        'ginga': '2.5.20161005204600'
+        'ginga': '2.6.1',
+        'gwcs': '0.7'
         }
 
 if sys.platform.startswith('win'):
