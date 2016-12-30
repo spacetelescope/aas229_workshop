@@ -15,16 +15,16 @@ If you don't already have Anaconda installed, install the the Anaconda distribut
 
 Note: please do this ahead of the workshop if possible.
 
-These include both Anaconda and the AstroConda software repository, which contains additional tools that will be shown at the workshop. If you have trouble installing using the above files (or are using Windows), you will need to download anaconda separately (https://www.continuum.io/downloads), and then install Astroconda on top following the instructions here: http://astroconda.readthedocs.io/en/latest/.
+These shell installers include both Anaconda and the AstroConda software repository, which contains additional tools that will be shown at the workshop. If you have trouble installing using the above files (or are using Windows), you will need to download anaconda separately (https://www.continuum.io/downloads), and then install Astroconda on top following the instructions here: http://astroconda.readthedocs.io/en/latest/.
 
-If you have Anaconda already installed, and have not used the shell installer above, you can create a special environment for this workshop which contains all the software you will need using the environment file below. If you've already used the installer above you should already have all the software you need on your machine:
+If you have Anaconda already installed, and have not used the shell installer above, and have not already installed the Astroconda software package, you can create a special environment for this workshop which contains all the software you will need using the environment file below. If you've already used the installer above you should already have all the software you need on your machine:
 
     % conda env create -n aas229-workshop --file environment.yml
     % source activate aas229-workshop
 
 Note: you need to be inside the aas229_workshop directory for this to work.
 
-The command above will create an environment called "aas229-workshop", but you can change that to any other desirable name.
+The command above will create an environment called "aas229-workshop", but you can change that to any other desirable name by replacing the quoted name.
 
 Note for windows users: you can use the environment_win.yml file instead, this will not include the ginga or imexam packages:
 
