@@ -34,3 +34,6 @@ The Astropy website, go here for a good overview and documentation about the pro
 Ready to get into the action? Check out some of these tutorials: http://www.astropy.org/astropy-tutorials/
 
 Python For Astronomers, where the  emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research. https://python4astronomers.github.io/
+
+If you have issues getting set up, you can also run the notebooks on mybinder.org:
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/spacetelescope/aas229_workshop)
