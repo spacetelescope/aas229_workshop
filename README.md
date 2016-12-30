@@ -2,6 +2,11 @@ Using Python for Astronomical Data Analysis in the Era of JWST
 ================================================================
 The Space Telescope Science Institute and core developers from the Astropy community are sponsoring a workshop at the January 2017 meeting of the [American Astronomical Society](http://aas.org/) #AAS229 in Grapevine, Texas.
 
+Check out the [Schedule!](Schedule.md)
+
+View the [installation and setup instructions!](Installation_and_Setup.md)
+
+
 This workshop will cover the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST and other major mission data.
 
 Our goals will be to introduce you to the variety of tools which are already available inside the Astropy library as well as provide ample hands-on time during which you’ll be able to explore the science analysis capabilities which the greater python environment and community provide.
@@ -15,10 +20,11 @@ If you would like to get a head start with the tools we will be concentrating on
 * [Coordinate utilities](http://docs.astropy.org/en/stable/coordinates/index.html)
 * [Modeling and Fitting](http://docs.astropy.org/en/stable/modeling/index.html)
 * Interactive visualization and analysis tools:
-  * [Glue](http://glueviz.org/en/stable/)
-  * [imexam](http://imexam.readthedocs.io/en/latest/)
-  * spectroscopy tools such as [specview](https://github.com/spacetelescope/specview)
-  * Photometric tools, such as [photutils](http://photutils.readthedocs.io/en/latest/)
+  * [Glue](http://glueviz.org/)
+  * [imexam](http://imexam.readthedocs.io/)
+  * [Ginga](http://ginga.readthedocs.io)
+  * spectroscopy tools such as [specviz](https://github.com/spacetelescope/specviz)
+  * Photometric tools, such as [photutils](http://photutils.readthedocs.io/)
 
 
 For those of you just starting out in using python for astronomy, or looking for more information consider checking out the resources listed below and begin exploring the possibilities!
