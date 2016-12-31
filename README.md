@@ -3,9 +3,9 @@ Using Python for Astronomical Data Analysis in the Era of JWST
 
 The Space Telescope Science Institute and core developers from the Astropy community are sponsoring a workshop at the January 2017 meeting of the [American Astronomical Society](http://aas.org/) #AAS229 in Grapevine, Texas.
 
-Check out the [Schedule](Schedule.md)!
+Check out the [Schedule!](Schedule.md)
 
-View the [installation and setup instructions](Installation_and_Setup.md)!
+View the [installation and setup instructions!](Installation_and_Setup.md)
 
 
 This workshop will cover the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical, and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST, and other major mission data.
