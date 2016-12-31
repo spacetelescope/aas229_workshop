@@ -18,7 +18,7 @@ Workshop Schedule
 |2:30 - 3:00 | Generalized World Coordinate System (GWCS) | Nadia Dencheva |
 |**3:00 - 3:15** | **BREAK** | Refreshments |
 |3:15 - 3:45 | Photutils | Megan Sosey|
-|3:45 - 5:00 | imexam, Ginga, SpecViz, Glue | Megan Sosey & Pey Lian Lim |
+|3:45 - 5:00 | imexam, Ginga, Glue, SpecViz | Megan Sosey & Pey Lian Lim |
 
 
  Wrap up!  Questions and Comments from participants
