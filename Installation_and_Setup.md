@@ -25,9 +25,12 @@ If you don't already have Anaconda installed, install the the Anaconda distribut
     http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-Linux-x86_64.sh
     http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-MacOSX-x86_64.sh
 
-These shell installers include both Anaconda and the AstroConda software repository, which contains additional tools that will be shown at the workshop.
+These shell installers include both Anaconda and the AstroConda software repository, which contains additional tools that will be shown at the workshop. To run the installer, cd to where you downloaded it to, and choose the appropriate command from below:
 
-If you have trouble installing using the above files, you will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b.
+    % ./AstroConda-1.0.2-Linux-x86_64.sh
+    % ./AstroConda-1.0.2-MacOSX-x86_64.sh
+
+If you have trouble installing using the above files, you will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b. If the installer above somehow did not install the versions needed, also go to Step 2b.
 
 More information about AstroConda can be found at http://astroconda.readthedocs.io/en/latest/ (currently does not support Windows build).
 
