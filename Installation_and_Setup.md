@@ -1,5 +1,14 @@
 This will be an interactive workshop so be sure to come with a laptop prepared to try out some of the tools that will be discussed and demonstrated.
 
+### Several of the packages have updated releases available, you can update all the software in your environment using:
+    
+    % conda update --yes --all
+    
+You can also update individual packages with conda update, these are the two packes with new versions:
+
+    % conda update stginga
+    % conda update imexam
+
 If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
 
 # 1. Clone This Repository
@@ -38,7 +47,7 @@ More information about AstroConda can be found at http://astroconda.readthedocs.
 
 You will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b.
 
-## 2b. Already Has Anaconda (or Step 2a Failed)
+## 2b. Already Has Anaconda
 
 If you have Anaconda already installed, have not used the shell installer in Step 2a (or it failed), and have not already installed the Astroconda software package, then follow this step. If you've already used the installer in Step 2a, you should already have all the software you need on your machine and you can skip this step.
 
