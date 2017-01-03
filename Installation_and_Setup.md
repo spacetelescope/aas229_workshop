@@ -25,7 +25,7 @@ Then, cd into the aas229_workshop directory.
 
 Note: please do this ahead of the workshop if possible.
 
-## 2a. No Anaconda
+## 2a. Getting Anaconda Anaconda
 
 ### Mac, Linux
 
@@ -47,9 +47,9 @@ More information about AstroConda can be found at http://astroconda.readthedocs.
 
 You will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b.
 
-## 2b. Already Has Anaconda
+## 2b. Create an  Anaconda environment for the workshop
 
-If you have Anaconda already installed, have not used the shell installer in Step 2a (or it failed), and have not already installed the Astroconda software package, then follow this step. If you've already used the installer in Step 2a, you should already have all the software you need on your machine and you can skip this step.
+If you have Anaconda already installed you can skip 2a and go straight on to this step.
 
 Note: You need to be inside the aas229_workshop directory for this to work.
 
