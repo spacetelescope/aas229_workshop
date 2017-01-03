@@ -8,12 +8,13 @@ Workshop Schedule
 | Time              | Topic    | Presenter |
 |-------------------|----------|-----------|
 |8:30 - 9:00    | Introduction, User configuration, and setup support | Everyone |
-|9:00 - 10:00   | Introduction to Python | Pey Lian Lim |
-|10:00 - 10:30  | Astropy Units, Quantities, and Constants | Erik Tollerud |
-|**10:30 - 10:45**  |  **BREAK** | Refreshments  |
-|10:45 - 11:15 | Coordinates | Erik Tollerud |
-|11:15 - 12:15 | I/O: FITS and ASCII, Astropy Tables | Nadia Dencheva & Erik Tollerud |
-|**12:15 - 1:15**| **LUNCH** | Your favorite foods |
+|9:00 - 9:15   | Intro/Logistics | Erik Tollerud |
+|9:15 - 10:15   | Introduction to Python | Pey Lian Lim |
+|10:15 - 10:45  | Astropy Units, Quantities, and Constants | Erik Tollerud |
+|**10:45 - 11:00**  |  **BREAK** | Refreshments  |
+|11:00 - 11:30 | Coordinates | Erik Tollerud |
+|11:30 - 12:30 | I/O: FITS and ASCII, Astropy Tables | Nadia Dencheva & Erik Tollerud |
+|**12:30 - 1:30**| **LUNCH** | Your favorite foods |
 |1:30 - 2:30 | Astropy WCS & Modeling| Nadia Dencheva |
 |2:30 - 3:00 | Generalized World Coordinate System (GWCS) | Nadia Dencheva |
 |**3:00 - 3:15** | **BREAK** | Refreshments |
