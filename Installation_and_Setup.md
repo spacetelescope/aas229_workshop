@@ -1,15 +1,13 @@
 This will be an interactive workshop so be sure to come with a laptop prepared to try out some of the tools that will be discussed and demonstrated.
 
-### If you installed weeks ago, several of the packages have updated releases. 
-
-You can update all the software in your environment using:
+### Several of the packages have updated releases available, you can update all the software in your environment using:
     
     % conda update --yes --all
     
 You can also update individual packages with conda update, these are the two packes with new versions:
 
-    % conda update -c http://ssb.stsci.edu/astroconda stginga
-    % conda update -c http://ssb.stsci.edu/astroconda imexam
+    % conda update stginga
+    % conda update imexam
 
 If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
 
@@ -61,7 +59,6 @@ The command below will create an environment called "aas229-workshop", but you c
 
 You can create a special environment for this workshop which contains all the software you will need using the environment file below:
 
-    % conda config --add channels http://ssb.stsci.edu/astroconda
     % conda env create -n aas229-workshop --file environment.yml
     % source activate aas229-workshop
 
@@ -69,7 +66,6 @@ You can create a special environment for this workshop which contains all the so
 
 You can create a special environment for this workshop which contains most of the software you will need using the environment file below:
 
-    % conda config --add channels http://ssb.stsci.edu/astroconda
     % conda env create -n aas229-workshop --file environment_win.yml
     % activate aas229-workshop
 
@@ -89,16 +85,10 @@ You can run the check_env.py script to perform a basic check of your Python envi
 
 # 4. Pick Up Changes
 
-To pick up any updates for workshop materials, make sure you are in the aas229_workshop directory and then use the following command:
-
-    % git pull
-
-This *may* result in an error, if you've modified any of the files that have changed since you last pulled from git.  In that case, you'll need to do:
+To pick up any updates for workshop materials, make sure you are in the aas229_workshop directory and then use the following commands:
 
     % git fetch origin master
-    % git reset --hard origin/master
-
-NOTE: This will overwrite any notebooks you've modified.  Be sure to back up any changes you care about.  Or if you really want to keep something, you can ask one of the instructors to show you how to do a more fine-grained update using advanced git commands.
+    % git rebase origin/master
     
 The commands above only work if you used git in Step 1. The rebase command will not work properly if you have modified the materials (e.g., running the notebooks). In that case or if you downloaded the materials manually, you will have to update the changed files manually as well; e.g., by downloading the updated file (the RAW format) via GitHub web interface.
 
