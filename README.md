@@ -8,7 +8,7 @@ Check out the [Schedule!](Schedule.md)
 View the [installation and setup instructions!](Installation_and_Setup.md)
 
 
-This workshop will cover the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical, and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST, and other major mission data.
+This workshop covers the use of Python tools for astronomical data analysis and visualization in the era of JWST, with the focus primarily on UV, Optical, and IR data. Data analysis tools for JWST are being written in Python and distributed as part of Astropy, a community developed Python library for astronomy,  and its affiliated packages, many of which are designed to be compatible with JWST, HST, and other major mission data.
 
 Our goals will be to introduce you to the variety of tools which are already available inside the Astropy library as well as provide ample hands-on time during which you’ll be able to explore the science analysis capabilities which the greater Python environment and community provide.
 
@@ -40,4 +40,16 @@ Ready to get into the action? Check out some of these tutorials: http://www.astr
 
 Python For Astronomers, where the emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research: https://python4astronomers.github.io/
 
+# Problems or Questions?
+
+If you are working through this material on your own, we encourage you to submit any problems or questions you have either to this repository or the package repository for the software you are working with (for example photutils or astropy). Each of the software packages have their own GIT repository where code is stored and updated.
+
+To submit a question or problem:
+
+- On GitHub, navigate to the main page of the repository.
+- Under your repository name, click Issues.
+- Click New issue.
+- Type a title and description for your issue.
+
 Take the notebooks for a test run: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/spacetelescope/aas229_workshop)
+
