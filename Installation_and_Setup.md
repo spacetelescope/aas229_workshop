@@ -19,7 +19,7 @@ First, download this repository by either doing:
 
     % git clone http://github.com/spacetelescope/aas229_workshop.git
 
-or by downloading and then expanding the repository file.
+or by downloading and then expanding the repository file. Github allows for downloading a ZIP file, click on the green "Clone or Download" button on the front page and select zip file. Save the zip file to a reasonable directory and unpack it. 
 
 Then, cd into the aas229_workshop directory.
 
@@ -31,19 +31,11 @@ Note: please do this ahead of the workshop if possible.
 
 ### Mac, Linux
 
-If you don't already have Anaconda installed, install the the Anaconda distribution for Python 3.5, which we have packaged along with some additional software. Downloads for Mac and Linux can be found at:
+If you don't already have Anaconda installed, install the the Anaconda distribution for Python 3.5 appropriate for your operating system. You will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b.
 
-    http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-Linux-x86_64.sh
-    http://ssb.stsci.edu/conda/installers/AstroConda-1.0.2-MacOSX-x86_64.sh
+More information and installation instructions for AstroConda can be found at http://astroconda.readthedocs.io/en/latest/ (currently does not support Windows build).
 
-These shell installers include both Anaconda and the AstroConda software repository, which contains additional tools that will be shown at the workshop. To run the installer, cd to where you downloaded it to, and choose the appropriate command from below:
-
-    % ./AstroConda-1.0.2-Linux-x86_64.sh
-    % ./AstroConda-1.0.2-MacOSX-x86_64.sh
-
-If you have trouble installing using the above files, you will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b. If the installer above somehow did not install the versions needed, also go to Step 2b.
-
-More information about AstroConda can be found at http://astroconda.readthedocs.io/en/latest/ (currently does not support Windows build).
+You do not need to install the entire AstroConda package, if you only wish to install software needed for this work shop you can use the environment.yml file referenced in section 2b. Either way, it's good practice to install AstroConda or just the software for this workshop into its own conda environment. 
 
 ### Windows
 
