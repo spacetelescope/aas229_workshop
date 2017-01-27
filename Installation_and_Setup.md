@@ -69,7 +69,7 @@ Then, you can install the rest of the packages using:
 
     % pip install -r pip_requirements_win.txt
 
-Note: Windows distribution currently does not yet support imexam.
+Note: Windows distribution currently does not yet support imexam with DS9. However, all the imexam functionality including image viewing can be used with Ginga as the viewer. 
 
 # 3. Check Installation
 
