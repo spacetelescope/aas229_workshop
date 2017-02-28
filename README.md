@@ -40,3 +40,4 @@ Ready to get into the action? Check out some of these tutorials: http://www.astr
 
 Python For Astronomers, where the emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research: https://python4astronomers.github.io/
 
+Take the notebooks for a test run: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/spacetelescope/aas229_workshop)
